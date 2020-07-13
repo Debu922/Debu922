@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello!
+
+I'm Debaditya Bhattacharya! I'm a first year undergraduate student studying at the Indian Institute of Techonolgy, Kanpur. Although I am pursing BS Physics, my intersts are quite varied. I'm often seen meddling in electronics, neuroscience, biology, computer science and programming!
+
+See you around sometime!
+
+Contact me via my email:
+
+* debbh922[at]gmail[dot]com
+* debbh[at]iitk[dot]ac[dot]in
 
 <!--
 **Debu922/Debu922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

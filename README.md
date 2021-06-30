@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Debaditya Bhattacharya! I'm third year undergraduate student studying at the Indian Institute of Techonolgy, Kanpur. Although I am pursing BS Physics, my intersts are quite varied. I'm often seen meddling in electronics, neuroscience, biology, computer science and programming!
+I'm Debaditya Bhattacharya! I'm third year undergraduate student studying at the Indian Institute of Techonolgy, Kanpur. Although I am pursing BS Physics, my intersts are quite varied. I'm often seen meddling in electronics, neuroscience, computer science and programming!
 
 See you around sometime!
 

@@ -1,13 +1,11 @@
 ### Hello!
 
-I'm Debaditya Bhattacharya! I'm fourth year undergraduate student studying at the Indian Institute of Techonolgy, Kanpur. Although I am pursing BS Physics, my intersts are quite varied. I'm often seen meddling in electronics, neuroscience, computer science and programming!
-
-See you around sometime!
+I'm Debaditya Bhattacharya. I'm an incoming ECE PhD student at the Cornell University. I graduated from IIT Kanpur with a BS in Physics in 2023. My intersts are quite varied. I'm often seen meddling in electronics, neuroscience, computer science and programming.
 
 Contact me via my email:
 
 * debbh922[at]gmail[dot]com
-* debbh[at]iitk[dot]ac[dot]in
+* db799[at]cornell[dot]edu
 
 <!--
 **Debu922/Debu922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
